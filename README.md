@@ -42,7 +42,7 @@ Responsive IT-services website with animated hero imagery, reusable service sect
 
 ![Sira Studios desktop and mobile website](docs/images/sira-studios-devices.webp)
 
-Creative-studio website with seven public routes, brand and career journeys, responsive navigation and a PHP content-management backend. Shared server-side login quotas and offline regression checks accompany the published source.
+Creative-studio website with seven public routes, brand and career journeys, responsive navigation and PHP enquiry, careers and account/admin APIs. Shared server-side login quotas and offline regression checks accompany the published source.
 
 [Live website](https://sirastudios.com/) · [Source and setup](https://github.com/attaulhaq0/sira-studios-website) · [Design notes](https://github.com/attaulhaq0/sira-studios-website/blob/main/docs/design-notes.md) · [Reviewed changes](https://github.com/attaulhaq0/sira-studios-website/pulls?q=is%3Apr+is%3Amerged)
 
