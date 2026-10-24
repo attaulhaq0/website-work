@@ -1,62 +1,60 @@
 # Website Work
 
-Website design and development by [Sheikh Atta-ul-Haq](https://github.com/attaulhaq0).
+Freelance web development by [Sheikh Atta-ul-Haq](https://github.com/attaulhaq0).
 
-Delivered client work and frontend design previews, with source code, screenshots and live links.
+Responsive websites with delivered source, design evidence, local setup instructions and reviewed pull requests. Each website keeps its code and design in one repository.
 
-| Project | Status | Stack | Links |
-| --- | --- | --- | --- |
-| AR TECH INC | Delivered | HTML · CSS · JavaScript · PHP | [Live](https://artechsusa.com/) · [Code](https://github.com/attaulhaq0/artechsusa-website) |
-| Artechs USA — Design Lab | Design previews | React · Vite · HTML · CSS · JavaScript | [Explore](https://artechs-usa-client-review.vercel.app/) · [Code](https://github.com/attaulhaq0/artechsusa-design-lab) |
+[View the portfolio](https://attaulhaq-spatial-portfolio.vercel.app/#freelance-web-development)
+
+| Website | Focus | Code and design |
+| --- | --- | --- |
+| [AR TECH INC](https://artechsusa.com/) | Technology consulting and staffing | [artechsusa-website](https://github.com/attaulhaq0/artechsusa-website) |
+| [Arissoft](https://arissoft.tech/) | Software and IT services | [arissoft-website](https://github.com/attaulhaq0/arissoft-website) |
+| [Sira Studios](https://sirastudios.com/) | Creative studio and brand services | [sira-studios-website](https://github.com/attaulhaq0/sira-studios-website) |
+| [theEb1](https://theeb1.com/) | Immigration services and consultation journeys | [theeb1-website](https://github.com/attaulhaq0/theeb1-website) |
 
 <details open>
-<summary><strong>AR TECH INC — delivered website</strong></summary>
+<summary><strong>AR TECH INC</strong></summary>
 
-![AR TECH INC homepage](docs/images/artechsusa-desktop.png)
+![AR TECH INC desktop and mobile website](docs/images/artechsusa-devices.webp)
 
-Responsive service, industry and career pages, interactive delivery graphics, contact and application forms, and technical SEO.
+Responsive service, industry and career pages across 27 routes; interactive delivery graphics; PHP contact and application forms. Technical SEO includes unique metadata, canonical URLs, JSON-LD and 24 indexable sitemap URLs.
 
-- 27 routes with shared navigation and page styles.
-- PHP form handling with validation, signed tokens, rate limits, SMTP/TLS and résumé attachments.
-- Unique metadata, canonical URLs, structured data and 24 indexable sitemap URLs.
-- Five site checks and sixteen form integration tests, with GitHub Actions verification.
+The same repository includes the **Signal, Human and Atlas** design directions, their source and review interface.
 
-[Live website](https://artechsusa.com/) · [Source and setup](https://github.com/attaulhaq0/artechsusa-website) · [Technical SEO](https://github.com/attaulhaq0/artechsusa-website/blob/main/docs/seo.md) · [Pull requests](https://github.com/attaulhaq0/artechsusa-website/pulls?q=is%3Apr+is%3Amerged)
+[Live website](https://artechsusa.com/) · [Source and setup](https://github.com/attaulhaq0/artechsusa-website) · [Design previews](https://github.com/attaulhaq0/artechsusa-website/tree/main/design-previews) · [Technical SEO](https://github.com/attaulhaq0/artechsusa-website/blob/main/docs/seo.md) · [Reviewed changes](https://github.com/attaulhaq0/artechsusa-website/pulls?q=is%3Apr+is%3Amerged)
 
 </details>
 
 <details>
-<summary><strong>Signal — design preview</strong></summary>
+<summary><strong>Arissoft</strong></summary>
 
-![Signal homepage](docs/images/signal-desktop.png)
+![Arissoft desktop homepage and mobile About page](docs/images/arissoft-devices.webp)
 
-Blue and mint direction with connected technology graphics, motion and responsive service journeys. Includes 24 preview pages.
+Responsive IT-services website with animated hero imagery, reusable service sections, industry content and enquiry forms. React, TypeScript, Vite, Tailwind CSS and PHP/PDO.
 
-[Explore Signal](https://artechs-usa-client-review.vercel.app/?design=signal) · [Source](https://github.com/attaulhaq0/artechsusa-design-lab/tree/main/public/replicas/signal)
-
-</details>
-
-<details>
-<summary><strong>Human — design preview</strong></summary>
-
-![Human homepage](docs/images/human-desktop.png)
-
-Editorial typography, people-focused layouts and candidate journeys. Includes 25 preview pages.
-
-[Explore Human](https://artechs-usa-client-review.vercel.app/?design=human) · [Source](https://github.com/attaulhaq0/artechsusa-design-lab/tree/main/public/replicas/human)
+[Live website](https://arissoft.tech/) · [Source and setup](https://github.com/attaulhaq0/arissoft-website) · [Design notes](https://github.com/attaulhaq0/arissoft-website/blob/main/docs/design-notes.md) · [Complete landing page](https://github.com/attaulhaq0/arissoft-website/blob/main/docs/images/homepage-full.webp) · [Reviewed changes](https://github.com/attaulhaq0/arissoft-website/pulls?q=is%3Apr+is%3Amerged)
 
 </details>
 
 <details>
-<summary><strong>Atlas — design preview</strong></summary>
+<summary><strong>Sira Studios</strong></summary>
 
-![Atlas homepage](docs/images/atlas-desktop.png)
+![Sira Studios desktop and mobile website](docs/images/sira-studios-devices.webp)
 
-Enterprise navigation, dark and light presentation, and interactive service content. Includes 31 preview pages.
+Creative-studio website with seven public routes, brand and career journeys, responsive navigation and PHP enquiry, careers and account/admin APIs. Shared server-side login quotas and offline regression checks accompany the published source.
 
-[Explore Atlas](https://artechs-usa-client-review.vercel.app/?design=atlas) · [Source](https://github.com/attaulhaq0/artechsusa-design-lab/tree/main/public/replicas/atlas)
+[Live website](https://sirastudios.com/) · [Source and setup](https://github.com/attaulhaq0/sira-studios-website) · [Design notes](https://github.com/attaulhaq0/sira-studios-website/blob/main/docs/design-notes.md) · [Reviewed changes](https://github.com/attaulhaq0/sira-studios-website/pulls?q=is%3Apr+is%3Amerged)
 
 </details>
 
-The three design directions belong to one client project. The React review interface supports direction selection, page navigation and motion preferences. Preview forms do not send submissions.
+<details>
+<summary><strong>theEb1</strong></summary>
 
+![theEb1 desktop and mobile website](docs/images/theeb1-devices.webp)
+
+Twelve public routes covering visa services, company information, testimonials, resources and consultation. Responsive React interface with animated service messages and PHP content/form endpoints; local review uses fallback content and simulated submissions.
+
+[Live website](https://theeb1.com/) · [Source and setup](https://github.com/attaulhaq0/theeb1-website) · [Design notes](https://github.com/attaulhaq0/theeb1-website/blob/main/docs/design-notes.md) · [Complete landing page](https://github.com/attaulhaq0/theeb1-website/blob/main/docs/images/homepage-full.webp) · [Reviewed changes](https://github.com/attaulhaq0/theeb1-website/pulls?q=is%3Apr+is%3Amerged)
+
+</details>
