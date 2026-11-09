@@ -122,6 +122,12 @@ Database-backed content and contact delivery require the documented PHP/MySQL se
 
 **Purpose:** Give prospective clients, investors and job applicants distinct entry points within one studio website.
 
+![Sira Studios homepage scrolling from the studio hero to the contact footer](docs/images/sira-studios-homepage-motion.gif)
+
+Homepage walkthrough: a studio-led opening moves into creative work and services, then ends with a project enquiry and contact details.
+
+[Complete homepage view](docs/images/sira-studios-homepage-full.webp)
+
 ![Sira Studios creative-work carousel changing content](docs/images/sira-studios-motion.gif)
 
 Creative-work carousel: previous and next controls move between visual content without leaving the page.
