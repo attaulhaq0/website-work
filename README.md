@@ -177,9 +177,20 @@ Vite builds the React frontend. PHP/PDO endpoints use MySQL for content and enqu
 
 Desktop and mobile openings keep the service introduction and profile-evaluation action visible at each size.
 
-![theEb1 EB-1A page showing the visa definition, USCIS criteria and consultation navigation.](docs/images/theeb1-detail.webp)
+![theEb1 homepage section with a teal world map, coral location markers and a Start Now action.](docs/images/theeb1-detail.webp)
 
-The EB-1A view separates the visa definition from a scannable criteria list, with consultation access in the shared navigation.
+The homepage pairs a branded world map with a concise introduction and a direct path to the contact page.
+
+<details>
+<summary>Complete homepage</summary>
+
+The complete page carries the teal identity from the service opening through company information, social proof, pricing and contact.
+
+[Open full-size homepage](docs/images/theeb1-homepage-full.webp)
+
+![Complete theEb1 homepage from the visa-service opening to the footer.](docs/images/theeb1-homepage-full.webp)
+
+</details>
 
 [Live website](https://theeb1.com/) · [Code](https://github.com/attaulhaq0/theeb1-website) · [Build/setup guide](https://github.com/attaulhaq0/theeb1-website/blob/main/database/README.md)
 
