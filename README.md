@@ -4,6 +4,8 @@ Freelance website design and development by [Sheikh Atta-ul-Haq](https://github.
 
 Five client websites for technology services, creative production and immigration guidance. Each project below pairs a motion preview with selected content views and the work I contributed.
 
+I deliver websites end to end: improving client-provided content, creating and preparing visual assets, designing layouts and motion, implementing the site, checking responsive behavior and technical SEO, and deploying the site.
+
 [Personal portfolio](https://attaulhaq-spatial-portfolio.vercel.app/#freelance-web-development)
 
 | Website | Audience and purpose | Source |
@@ -23,11 +25,13 @@ Five client websites for technology services, creative production and immigratio
 
 Layered hero: moving interface panels, platform badges and specialist imagery introduce the service offer.
 
-**My contribution:** I created the service copy and visual direction, built the static Astro website and carried it through responsive QA, technical SEO and the Hostinger launch.
+**My contribution:** I refined the client’s service content, generated and prepared visual assets, and designed the layered hero and page layouts. I built and animated the Astro site, verified responsive behavior and technical SEO, and completed the Hostinger launch.
 
 **Design decision:** Service cards connect each offering to a concrete task and a relevant enquiry action. The layered hero introduces the same connection between systems and specialist skills.
 
-**Astro · TypeScript · CSS**
+**Astro · TypeScript · CSS · GSAP · SplitType**
+
+Static Astro output; GSAP and SplitType drive browser motion. No server-side application runtime is required.
 
 ![Narrcorp desktop and mobile interface](docs/images/narrcorp-devices.webp)
 
@@ -54,11 +58,13 @@ Contact actions open the visitor's email application. The industry scenarios des
 
 Service explorer: selecting Cloud, Data & AI, Custom Software or Managed IT changes the context and destination.
 
-**My contribution:** I developed the service, industry, staffing and careers pages, with shared navigation, responsive layouts and PHP-backed enquiry and application interfaces.
+**My contribution:** I turned the client’s technology and staffing content into distinct service and career journeys, preparing visuals and designing the interactive service explorer. I built the pages and browser interactions, integrated the PHP forms, and carried the site through QA, technical SEO and deployment.
 
 **Design decision:** The opening service explorer changes its supporting context when a visitor chooses a discipline. Separate project and career actions serve the site's two audiences.
 
-**HTML · CSS · JavaScript · PHP**
+**HTML · CSS · JavaScript · PHP · PHPMailer**
+
+HTML pages and browser JavaScript, with PHP/PHPMailer submission handlers. The frontend has no build step.
 
 ![AR TECH INC desktop and mobile interface](docs/images/artechsusa-devices.webp)
 
@@ -85,11 +91,13 @@ The source includes form handlers and local integration tests. These captures de
 
 Three-slide opening: headlines, highlighted text and image masks transition together while the Find Talent and Find Job actions remain available.
 
-**My contribution:** I built four connected pages in React and TypeScript, including the animated three-slide hero, responsive navigation and contact feedback.
+**My contribution:** I improved the client’s company and service copy, generated and prepared imagery, and designed the three-slide opening. The React implementation connects four pages with responsive navigation and contact feedback; I also handled testing, search and social metadata, and deployment.
 
 **Design decision:** Three opening messages share one navigation and action pattern. Supporting pages carry the introduction into company context and detailed services.
 
-**React · TypeScript · Vite · Tailwind CSS · PHP**
+**React · TypeScript · Vite · Tailwind CSS · Framer Motion · PHP · MySQL**
+
+Vite builds the React frontend; Framer Motion handles transitions. PHP/PDO endpoints use MySQL.
 
 ![Arissoft desktop and mobile interface](docs/images/arissoft-devices.webp)
 
@@ -103,7 +111,7 @@ The About view places the company profile and three value cards beneath the shar
 
 [Complete homepage capture](https://github.com/attaulhaq0/arissoft-website/blob/main/docs/images/homepage-full.webp)
 
-**Build scope:** Connected home, services, About and contact routes with reusable layouts. PHP content and contact endpoints, with the database setup documented in the repository.
+**Build scope:** Connected home, services, About and contact routes with consistent page navigation. PHP content and contact endpoints, with the database setup documented in the repository.
 
 Database-backed content and contact delivery require the documented PHP/MySQL setup. A visual preview does not establish successful message delivery.
 
@@ -118,11 +126,13 @@ Database-backed content and contact delivery require the documented PHP/MySQL se
 
 Creative-work carousel: previous and next controls move between visual content without leaving the page.
 
-**My contribution:** I developed the studio, services, brand-work, investor and careers routes, pairing a photographic opening with a creative-work carousel and enquiry interfaces.
+**My contribution:** I refined the studio, investor and careers content, generated and prepared visual assets, and shaped the photographic opening and work carousel. I delivered the React pages and enquiry interfaces, with responsive checks, technical SEO and deployment as part of the completed build.
 
 **Design decision:** A browsable creative-work strip establishes the studio's visual identity. Audience-specific navigation leads into more detailed services, investor and careers information.
 
-**React · TypeScript · Vite · Tailwind CSS · PHP**
+**React · TypeScript · Vite · Tailwind CSS · React Router · PHP · MySQL**
+
+Vite builds the React frontend. PHP/PDO endpoints and MySQL provide the separately configured server integration.
 
 ![Sira Studios desktop and mobile interface](docs/images/sira-studios-devices.webp)
 
@@ -149,11 +159,13 @@ The captures show public pages. Private account records and submitted enquiries 
 
 Rotating service headline: the opening moves through EB1A, O1A and EB2-NIW messages above the enquiry action.
 
-**My contribution:** I built visa-service, FAQ, company and consultation pages using reusable content sections, animated headings and responsive navigation.
+**My contribution:** I reorganized and improved the client’s visa and FAQ content, generated and prepared visuals, and designed the service-page hierarchy and rotating headline. I developed the consultation journeys and React pages, then checked their responsive behavior, technical SEO and deployment.
 
 **Design decision:** The rotating opening introduces separate visa routes, while dedicated service and FAQ pages accommodate the detail needed before an enquiry.
 
-**React · TypeScript · Vite · Tailwind CSS · PHP**
+**React · TypeScript · Vite · Tailwind CSS · React Router · PHP · MySQL**
+
+Vite builds the React frontend. PHP/PDO endpoints use MySQL for content and enquiries.
 
 ![theEb1 desktop and mobile interface](docs/images/theeb1-devices.webp)
 
@@ -167,7 +179,7 @@ The EB-1A view separates the visa definition from a scannable criteria list, wit
 
 [Complete homepage capture](https://github.com/attaulhaq0/theeb1-website/blob/main/docs/images/homepage-full.webp)
 
-**Build scope:** Twelve public routes include visa information, FAQs, company content and consultation. Reusable interface sections and PHP content/form endpoints are included in the source.
+**Build scope:** Twelve public routes include visa information, FAQs, company content and consultation. Visa-service pages and PHP content/form endpoints are included in the source.
 
 Local review uses fallback content and simulated form success. Production enquiries require the PHP integration; published client claims are not measured outcomes of my website work.
 
