@@ -5,3 +5,7 @@
 .DS_Store
 Thumbs.db
 *.log
+
+docs/images/atlas-desktop.png
+docs/images/human-desktop.png
+docs/images/signal-desktop.png
